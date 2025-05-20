@@ -1,0 +1,25 @@
+*.iml
+.gradle/
+gradle-wrapper.jar
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+build/
+app/build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.aab
+*.ap_
+# Android
+*.apk
+.idea/
+*.log
+*.tmp
+*.bak
+Sdk/
